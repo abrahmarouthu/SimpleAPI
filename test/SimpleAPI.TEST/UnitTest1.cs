@@ -5,12 +5,12 @@ namespace SimpleAPI.TEST;
 
 public class UnitTest1
 {
-    WeatherForecastController controller  = new WeatherForecastController(null);
+    //WeatherForecastController controller  = new WeatherForecastController(null);
 
     [Fact]
     public void GetResults()
     {
-        Assert.Equal(1, 1);
+        Assert.Equal(1, 0);
     }
 
 
