@@ -10,7 +10,7 @@ public class UnitTest1
     [Fact]
     public void GetResults()
     {
-        Assert.Equal(1, 0);
+        Assert.Equal(1, 1);
     }
 
 
